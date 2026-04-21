@@ -17,10 +17,11 @@ Temporarily enables the “Numpad Emulation” feature in Blender.
 4. Enable the add-on
 
 ## Usage
-With the default settings, the add-on enables “Emulate Numpad” when you press the tilde (~) key.
-In the add-on settings, you can also remap it to other keys and enable “Num Pad Emulation” when pressing a key combination
+Press the assigned key to enable "Emulate Numpad".
 
 ## Notes
 Useful for laptops and keyboards without a numeric keypad.
+Default key (~) overrides Blender's View Pie Menu.
+You can change the hotkey in addon settings.
 
 The add-on was developed using the Gemini CLI agent
