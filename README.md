@@ -23,4 +23,4 @@ In the add-on settings, you can also remap it to other keys and enable “Num Pa
 ## Notes
 Useful for laptops and keyboards without a numeric keypad.
 
-Translated with DeepL.com (free version)
+The add-on was developed using the Gemini CLI agent
